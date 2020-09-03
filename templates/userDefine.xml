@@ -1,0 +1,19 @@
+<templateSet group="userDefine">
+  <template name="lei" value="/*&#10;* @Description: $description$&#10;* @Param: $params$&#10;* @return: $returns$&#10;* @Author: Mr.ZYB&#10;* @Date: $date$&#10;*/" shortcut="ENTER" description="注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="leis" value="/*&#10;* @Description: $description$&#10;* @Param: $params$&#10;* @return: $returns$ &#10;*/" shortcut="ENTER" description="简介注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,12 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmOpenNewProject2" value="0" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

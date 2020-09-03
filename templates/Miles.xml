@@ -1,0 +1,11 @@
+<templateSet group="Miles">
+  <template name="a" value="**&#10;* @Description: $description$&#10;* @Param: $params$&#10;* @return: $returns$&#10;* @Author: Mr.Miles&#10;* @Date: $date$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
