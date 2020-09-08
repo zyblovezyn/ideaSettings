@@ -16,4 +16,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="psv" value="public static void $END$" description="public static void functionname" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
