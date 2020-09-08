@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;..externalToolBuilders;.DS_Store;.classpath;.cvsignore;.externalToolBuilders;.git;.gitignore;.hg;.idea;.project;.settings;.svn;.tomcatplugin;.vscode;CVS;Excel;Loader;META-INF;PostLogin.jsp;__pycache__;_svn;build.properties;build.tomcat.xml;build.tomcat_without_compile.xml;build.xml;build_copy_extra_classpath.xml;chang.txt;doc;faces-config-hrinfo.xml;for-was;help;ibm-web-ext.xmi;images;index.html;jasper;pdf;sciEntia.jsp;stop.txt;uhr_0280.iml;vssver.scc;vssver2.scc;work;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;..externalToolBuilders;.DS_Store;.classpath;.cvsignore;.externalToolBuilders;.git;.hg;.idea;.project;.settings;.svn;.tomcatplugin;.vscode;CVS;Excel;Loader;META-INF;PostLogin.jsp;__pycache__;_svn;build.properties;build.tomcat.xml;build.tomcat_without_compile.xml;build.xml;build_copy_extra_classpath.xml;chang.txt;doc;faces-config-hrinfo.xml;for-was;help;ibm-web-ext.xmi;images;index.html;jasper;pdf;sciEntia.jsp;stop.txt;uhr_0280.iml;vssver.scc;vssver2.scc;work;" />
     <extensionMap>
       <removed_mapping ext="class" approved="true" type="CLASS" />
       <mapping ext="class" type="GitIgnore file" />
