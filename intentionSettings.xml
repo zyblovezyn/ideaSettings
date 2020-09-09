@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Modifiers/Change access modifier" />
-    <ignoreAction name="Java/I18N/Convert to Basic Latin" />
-    <ignoreAction name="Java/Refactorings/Introduce local variable" />
-  </component>
-</application>
