@@ -108,8 +108,15 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
