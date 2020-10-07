@@ -3,7 +3,7 @@
     <property name="created">2020-10-01T18:07:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-10-02T16:27:26</property>
+    <property name="modified">2020-10-07T18:07:33</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -340,12 +340,6 @@
       <value>
         <option name="FOREGROUND" value="7f0000" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="80808" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

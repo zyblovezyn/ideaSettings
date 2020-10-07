@@ -3,7 +3,7 @@
     <property name="created">2020-06-27T09:13:32</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-06-27T09:17:43</property>
+    <property name="modified">2020-10-07T18:04:52</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -36,6 +36,9 @@
         <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
