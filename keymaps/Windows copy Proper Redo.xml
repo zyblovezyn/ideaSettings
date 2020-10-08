@@ -5,7 +5,14 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorDeleteLine" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
 </keymap>
