@@ -42,4 +42,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="td" value="//(TODO | ZhangYuanBo)  $date$ $todo$" description="add todo" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
