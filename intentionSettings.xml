@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Control Flow/Transform body to single exit-point form" />
+    <ignoreAction name="Java/I18N/Convert to Basic Latin" />
+  </component>
+</application>
