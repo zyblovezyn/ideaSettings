@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="年" />
+      <item value="瑞年" />
+      <item value="我是" />
+      <item value="1" />
       <item value="get Time Before Hour" />
       <item value="primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="JAPANESE" value="3" />
       </map>
     </option>
   </component>
