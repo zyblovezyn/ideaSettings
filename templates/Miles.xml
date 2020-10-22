@@ -49,4 +49,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="fore" value="for($ELEMENT_TYPE$ $VAR$:$ARRAY$) {     &#10;    $END$&#10;}" description="Create iteration loop" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
