@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declared" />
       <item value="分割" />
       <item value="切分" />
       <item value="分" />
@@ -18,7 +19,7 @@
       <map>
         <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="6" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="JAPANESE" value="4" />
       </map>
     </option>
   </component>
