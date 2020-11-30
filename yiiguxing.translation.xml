@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reguial" />
+      <item value="常规" />
       <item value="declared" />
       <item value="分割" />
       <item value="切分" />
@@ -18,8 +20,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
-        <entry key="JAPANESE" value="4" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="JAPANESE" value="6" />
       </map>
     </option>
   </component>
