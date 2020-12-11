@@ -26,6 +26,10 @@
           <option name="url" value="git@192.168.21.182:upds-dev/fpp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="luoyiguren" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\updscode" />
