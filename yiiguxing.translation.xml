@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="803" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="算法" />
       <item value="reguial" />
       <item value="常规" />
       <item value="declared" />
@@ -8,7 +12,6 @@
       <item value="切分" />
       <item value="分" />
       <item value="递归" />
-      <item value="算法" />
       <item value="毫秒" />
       <item value="年" />
       <item value="瑞年" />
@@ -24,5 +27,8 @@
         <entry key="JAPANESE" value="6" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607739898115" />
   </component>
 </application>
