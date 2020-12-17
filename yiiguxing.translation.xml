@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="803" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="手动" />
+      <item value="shou'g" />
       <item value="权限" />
       <item value="算法" />
       <item value="reguial" />
@@ -30,6 +32,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607739898115" />
+    <option name="lastTrimTime" value="1608173894171" />
   </component>
 </application>
