@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="803" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="交换" />
       <item value="手动" />
       <item value="shou'g" />
       <item value="权限" />
