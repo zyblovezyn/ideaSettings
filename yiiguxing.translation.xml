@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="803" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="固定" />
       <item value="交换" />
       <item value="手动" />
       <item value="shou'g" />
@@ -33,6 +34,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608173894171" />
+    <option name="lastTrimTime" value="1608611563782" />
   </component>
 </application>
