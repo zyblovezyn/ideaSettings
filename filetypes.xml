@@ -4,8 +4,10 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="手当连携" type="PLAIN_TEXT" />
       <mapping pattern="50yitu" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="sql~開発" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

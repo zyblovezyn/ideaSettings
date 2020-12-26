@@ -5,4 +5,15 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="TOOLTIPS_DELAY_MS" value="100" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\b(todo | fixme)\b.*" />
+    <filter name="zyb">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
