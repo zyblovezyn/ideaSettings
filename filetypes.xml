@@ -7,6 +7,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="手当连携" type="PLAIN_TEXT" />
       <mapping pattern="50yitu" type="PLAIN_TEXT" />
+      <mapping pattern="intro" type="PLAIN_TEXT" />
       <mapping ext="sql~開発" type="PLAIN_TEXT" />
       <mapping pattern="UserMapper" type="XML" />
     </extensionMap>
