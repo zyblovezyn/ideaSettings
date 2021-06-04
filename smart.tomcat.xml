@@ -2,9 +2,24 @@
   <component name="ServerConfiguration">
     <option name="tomcatInfos">
       <TomcatInfo>
-        <option name="name" value="Apache Tomcat 9.0.33" />
-        <option name="path" value="C:\soft\apache-tomcat-9.0.33" />
-        <option name="version" value="9.0.33.0" />
+        <option name="name" value="Apache Tomcat 7.0.88" />
+        <option name="path" value="D:\zhang\eclipse201906\tomcat7.0.88" />
+        <option name="version" value="7.0.88.0" />
+      </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 7.0.59" />
+        <option name="path" value="D:\eclipse4\tomcat\7" />
+        <option name="version" value="7.0.59.0" />
+      </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 7.0.104" />
+        <option name="path" value="D:\eclipse4\tomcat\7.0.104" />
+        <option name="version" value="7.0.104.0" />
+      </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 7.0.100" />
+        <option name="path" value="D:\eclipse4\tomcat\7.0.100" />
+        <option name="version" value="7.0.100.0" />
       </TomcatInfo>
     </option>
   </component>

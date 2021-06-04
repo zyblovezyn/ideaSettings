@@ -1,6 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="C:\Users\mileszhang\.m2\repository" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Users\mileszhang\AppData\Roaming\JetBrains\IdeaIC2021.1\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/X02472/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\X02472\AppData\Roaming\JetBrains\IdeaIC2021.1\plugins\Kotlin\kotlinc" />
+    <macro name="TOMCAT_HOME" value="D:/zhang/eclipse201906/tomcat7.0.88" />
   </component>
 </application>

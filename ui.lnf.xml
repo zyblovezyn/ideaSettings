@@ -1,7 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="10240" />
-    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
-    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
