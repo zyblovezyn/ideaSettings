@@ -47,4 +47,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="ei" value="else if ($VAR$) {&#10;$END$&#10;}" description="Inserts 'else if statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
