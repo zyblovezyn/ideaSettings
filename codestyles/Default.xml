@@ -1,1 +1,9 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
