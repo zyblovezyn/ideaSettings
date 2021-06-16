@@ -21,6 +21,11 @@
         <option name="path" value="D:\eclipse4\tomcat\7.0.100" />
         <option name="version" value="7.0.100.0" />
       </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/7.0.88" />
+        <option name="path" value="D:\eclipse4\tomcat\mynum" />
+        <option name="version" value="7.0.88.0" />
+      </TomcatInfo>
     </option>
   </component>
 </application>
