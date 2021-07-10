@@ -5,7 +5,7 @@
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="st" value="String " description="String" toReformat="false" toShortenFQNames="false">
+  <template name="str" value="String " description="String" toReformat="false" toShortenFQNames="false">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
