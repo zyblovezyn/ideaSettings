@@ -66,4 +66,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="forN" value="for(int $INDEX$ = $START$; $INDEX$ &lt; N; $INDEX$++) {&#10;  $END$&#10;}" description="Create iteration loop" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
