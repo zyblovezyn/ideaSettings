@@ -5,7 +5,7 @@
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="st" value="String " description="String" toReformat="false" toShortenFQNames="false">
+  <template name="str" value="String " description="String" toReformat="false" toShortenFQNames="false">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
@@ -62,6 +62,13 @@
     </context>
   </template>
   <template name="ren" value="return null;$END$" description="return null;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="forN" value="for(int $INDEX$ = $START$; $INDEX$ &lt; N; $INDEX$++) {&#10;  $END$&#10;}" description="Create iteration loop" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
