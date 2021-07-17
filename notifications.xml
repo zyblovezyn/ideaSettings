@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="leetcode editor" playSound="true" />
+  </component>
+</application>
